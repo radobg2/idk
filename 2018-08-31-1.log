@@ -1,0 +1,211 @@
+[00:03:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §f§5PBR §f// §eA boss §6Pidgeot§e has spawned in world "§6world§e", at X:§6-330§e Y:§687§e Z:§6358§r
+[00:04:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §f§5PBR §f// §eA boss §6Lopunny§e has spawned in world "§6world§e", at X:§6-382§e Y:§664§e Z:§6374§r
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: java.lang.NullPointerException
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.gwmdevelopments.sponge_plugin.crates.gui.AdvancedComboBox.getSelectedText(AdvancedComboBox.java:13)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.gwmdevelopments.sponge_plugin.crates.gui.SuperObjectPanel.getType(SuperObjectPanel.java:73)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.gwmdevelopments.sponge_plugin.crates.gui.GWMCratesGUI.generate(GWMCratesGUI.java:351)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.gwmdevelopments.sponge_plugin.crates.gui.GWMCratesGUI.lambda$createObjects$4(GWMCratesGUI.java:142)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Component.processMouseEvent(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Component.processEvent(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Container.processEvent(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Component.dispatchEvent(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Component.dispatchEvent(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventQueue.access$500(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventQueue$3.run(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventQueue$3.run(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventQueue$4.run(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventQueue$4.run(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+[00:05:35] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventDispatchThread.run(Unknown Source)
+[00:06:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §f§5PBR §f// §eA boss §6Ampharos§e has spawned in world "§6world§e", at X:§6-420§e Y:§669§e Z:§6376§r
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: java.lang.NullPointerException
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.gwmdevelopments.sponge_plugin.crates.gui.AdvancedComboBox.getSelectedText(AdvancedComboBox.java:13)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.gwmdevelopments.sponge_plugin.crates.gui.SuperObjectPanel.getType(SuperObjectPanel.java:73)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.gwmdevelopments.sponge_plugin.crates.gui.GWMCratesGUI.generate(GWMCratesGUI.java:351)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at org.gwmdevelopments.sponge_plugin.crates.gui.GWMCratesGUI.lambda$createObjects$4(GWMCratesGUI.java:142)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Component.processMouseEvent(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Component.processEvent(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Container.processEvent(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Component.dispatchEvent(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.Component.dispatchEvent(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventQueue.access$500(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventQueue$3.run(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventQueue$3.run(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventQueue$4.run(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventQueue$4.run(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+[00:07:11] [AWT-EventQueue-0/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.awt.EventDispatchThread.run(Unknown Source)
+[00:07:18] [Server thread/INFO] [nucleus]: BardisaGod ran the command: /gwm_crates:crate reload
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "DROP" with type "EMPTY"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "KEY" with type "MULTI"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "DROP" with type "DELAY"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "PREVIEW" with type "FIRST"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "CASE" with type "VIRTUAL"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "DROP" with type "MULTI"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "CASE" with type "TIMED"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "KEY" with type "VIRTUAL"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "DROP" with type "ITEM"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "KEY" with type "MULTIPLE-AMOUNT"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "OPEN_MANAGER" with type "SECOND"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "OPEN_MANAGER" with type "ANIMATION1"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "OPEN_MANAGER" with type "PERMISSION"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "CASE" with type "ITEM"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "DECORATIVE_ITEMS_CHANGE_MODE" with type "ORDERED"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "OPEN_MANAGER" with type "NO-GUI"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "PREVIEW" with type "PERMISSION"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "DROP" with type "COMMANDS"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "KEY" with type "TIMED"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "CASE" with type "EMPTY"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "CASE" with type "BLOCK"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "KEY" with type "ITEM"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "PREVIEW" with type "SECOND"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "DECORATIVE_ITEMS_CHANGE_MODE" with type "RANDOM"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "KEY" with type "EMPTY"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "OPEN_MANAGER" with type "FIRST"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "OPEN_MANAGER" with type "CASINO"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "CASE" with type "ENTITY"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully added Super Object "DROP" with type "PERMISSION"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Registration completed!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Economy Service found!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully loaded Saved Super Object "CASE" with saved ID "my_case_saved_id" and ID "my_case_id"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully loaded Saved Super Object "KEY" with saved ID "my_key_saved_id" and ID "my_key_id"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully loaded Saved Super Object "OPEN_MANAGER" with saved ID "my_open_manager_saved_id" and ID "my_open_manager_id"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully loaded Saved Super Object "DECORATIVE_ITEMS_CHANGE_MODE" with saved ID "my_change_mode_saved_id" and ID "my_change_mode_id"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully loaded Saved Super Object "PREVIEW" with saved ID "my_preview_saved_id" and ID "my_preview_id"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Successfully loaded Saved Super Object "DROP" with saved ID "my_drop1_saved_id" and ID "my_drop1_id"!
+[00:07:18] [Server thread/INFO] [gwm_crates]: All Saved Super Objects loaded!
+[00:07:18] [Server thread/WARN] [gwm_crates]: Failed to load manager from file "Hastowork.conf"!
+java.lang.RuntimeException: OPEN_MANGER node does not exist!
+	at org.gwmdevelopments.sponge_plugin.crates.manager.Manager.<init>(Manager.java:55) ~[Manager.class:?]
+	at org.gwmdevelopments.sponge_plugin.crates.GWMCrates.lambda$loadManagers$2(GWMCrates.java:396) ~[GWMCrates.class:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(Unknown Source) [?:1.8.0_151]
+	at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source) [?:1.8.0_151]
+	at java.util.Iterator.forEachRemaining(Unknown Source) [?:1.8.0_151]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Unknown Source) [?:1.8.0_151]
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source) [?:1.8.0_151]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source) [?:1.8.0_151]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(Unknown Source) [?:1.8.0_151]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(Unknown Source) [?:1.8.0_151]
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source) [?:1.8.0_151]
+	at java.util.stream.ReferencePipeline.forEach(Unknown Source) [?:1.8.0_151]
+	at org.gwmdevelopments.sponge_plugin.crates.GWMCrates.loadManagers(GWMCrates.java:388) [GWMCrates.class:?]
+	at org.gwmdevelopments.sponge_plugin.crates.GWMCrates.reload(GWMCrates.java:284) [GWMCrates.class:?]
+	at org.gwmdevelopments.sponge_plugin.crates.command.commands.ReloadCommand.execute(ReloadCommand.java:14) [ReloadCommand.class:?]
+	at org.spongepowered.api.command.args.ChildCommandElementExecutor.execute(ChildCommandElementExecutor.java:255) [ChildCommandElementExecutor.class:1.12.2-2705-7.1.0-BETA-3361]
+	at org.spongepowered.api.command.spec.CommandSpec.process(CommandSpec.java:388) [CommandSpec.class:1.12.2-2705-7.1.0-BETA-3361]
+	at org.spongepowered.api.command.dispatcher.SimpleDispatcher.process(SimpleDispatcher.java:341) [SimpleDispatcher.class:1.12.2-2705-7.1.0-BETA-3361]
+	at org.spongepowered.common.command.SpongeCommandManager.process(SpongeCommandManager.java:329) [SpongeCommandManager.class:1.12.2-2705-7.1.0-BETA-3361]
+	at net.minecraft.command.ServerCommandManager.func_71556_a(SourceFile:1083) [dh.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:958) [pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:937) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37) [la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9) [la.class:?]
+	at org.spongepowered.common.network.PacketUtil.onProcessPacket(PacketUtil.java:92) [PacketUtil.class:1.12.2-2705-7.1.0-BETA-3361]
+	at net.minecraft.network.PacketThreadUtil$1.redirect$onProcessPacket$zle000(SourceFile:539) [hv$1.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_151]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_151]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at org.spongepowered.common.SpongeImplHooks.onUtilRunTask(SpongeImplHooks.java:293) [SpongeImplHooks.class:1.12.2-2705-7.1.0-BETA-3361]
+	at net.minecraft.server.MinecraftServer.redirect$onRun$zjj000(MinecraftServer.java:3963) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:396) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_151]
+[00:07:18] [Server thread/INFO] [gwm_crates]: All managers loaded!
+[00:07:18] [Server thread/INFO] [gwm_crates]: Plugin has been reloaded.
+[00:07:19] [pool-3-thread-19/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §7*§r§b~§r§bBardisaGod§r§f §r§7is no longer AFK.§r
+[00:12:28] [pool-3-thread-24/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §7*§r§b~§r§bBardisaGod§r§f §r§7has gone AFK.§r
+[00:13:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §f§5PBR §f// §eA boss §6Banette§e has spawned in world "§6world§e", at X:§6-420§e Y:§669§e Z:§6379§r
+[00:14:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §f§5PBR §f// §eA boss §6Banette§e has spawned in world "§6world§e", at X:§6-401§e Y:§667§e Z:§6359§r
+[00:16:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §f§5PBR §f// §eA boss §6Scizor§e has spawned in world "§6world§e", at X:§6-439§e Y:§683§e Z:§6384§r
+[00:16:35] [pool-3-thread-26/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §7*§r§b~§r§bBardisaGod§r§f §r§7is no longer AFK.§r
+[00:17:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §f§5PBR §f// §eA boss §6Pinsir§e has spawned in world "§6world§e", at X:§6-436§e Y:§673§e Z:§6417§r
+[00:19:18] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This server is running §2Wondertrade§r by §2GhostWolf!§r
+[00:19:18] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §rFor a tutorial see: §9https://www.youtube.com/ghostwolfgames§r
+[00:19:18] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Current §2Wondertrade§r pool contains: §2500§r Pixelmon§r
+[00:19:18] [Timer-2/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §2Try your luck at getting it with §r/wondertrade§r
+[00:21:37] [pool-3-thread-27/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §7*§r§b~§r§bBardisaGod§r§f §r§7has gone AFK.§r
+[00:26:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §f§5PBR §f// §eA boss §6Pinsir§e has spawned in world "§6world§e", at X:§6-432§e Y:§676§e Z:§6401§r
+[00:34:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §f§5PBR §f// §eA boss §6Lopunny§e has spawned in world "§6world§e", at X:§6-371§e Y:§668§e Z:§6444§r
+[00:36:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §f§5PBR §f// §eA boss §6Sableye§e has spawned in world "§6world§e", at X:§6-388§e Y:§627§e Z:§6342§r
+[00:38:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §f§5PBR §f// §eA boss §6Mawile§e has spawned in world "§6world§e", at X:§6-425§e Y:§633§e Z:§6381§r
+[00:39:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §f§5PBR §f// §eA boss §6Mawile§e has spawned in world "§6world§e", at X:§6-422§e Y:§644§e Z:§6376§r
+[00:43:03] [Server thread/INFO] [nucleus]: Server ran the command: /stop 
+[00:43:04] [Server thread/INFO] [luckperms]: Closing storage...
+[00:43:04] [Server thread/INFO] [luckperms]: Shutting down internal scheduler...
+[00:43:04] [Server thread/INFO] [luckperms]: Goodbye!
+[00:43:04] [Server thread/INFO] [gwm_library]: All plugin configs have been saved!
+[00:43:04] [Server thread/INFO] [gwm_library]: "GameStopping" completed!
+[00:43:05] [Server thread/INFO] [fox.guard]: Saving regions
+[00:43:06] [Server thread/INFO] [fox.guard]: Region _sglobal does not need saving. Skipping...
+[00:43:06] [Server thread/INFO] [fox.guard]: Saving handlers
+[00:43:06] [Server thread/INFO] [fox.guard]: Saving handler "_global" in directory: .\world\foxguard\handlers\_global
+[00:43:06] [Server thread/INFO] [fox.guard]: Saving metadata for handler "_global"
+[00:43:06] [Server thread/INFO] [fox.guard]: Saving handler "BardisaGod" in directory: .\world\foxguard\handlers\bardisagod
+[00:43:07] [Server thread/INFO] [fox.guard]: Saving metadata for handler "BardisaGod"
+[00:43:07] [Server thread/INFO] [fox.guard]: Saving configs
+[00:43:07] [Server thread/INFO] [gwm_crates]: All plugin configs have been saved!
+[00:43:07] [Server thread/INFO] [gwm_crates]: "Stopping" completed!
+[00:43:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:43:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:43:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:43:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[00:43:09] [Server thread/INFO] [fox.guard]: Unloading world "world"
+[00:43:09] [Server thread/INFO] [fox.guard]: Saving world regions in world "world"
+[00:43:09] [Server thread/INFO] [fox.guard]: World region _wglobal does not need saving. Skipping...
+[00:43:09] [Server thread/INFO] [fox.guard]: Saving world region "spawn" in directory: .\world\foxguard\wregions\spawn
+[00:43:09] [Server thread/INFO] [fox.guard]: Saving metadata for world region "spawn"
+[00:43:09] [Server thread/INFO] [Sponge]: Unloading world [world] (DIM0)
+[00:43:10] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+[00:43:11] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+[00:43:11] [Server thread/INFO] [nucleus]: Nucleus is performing server shutdown tasks.
